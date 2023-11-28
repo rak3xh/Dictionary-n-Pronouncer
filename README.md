@@ -15,7 +15,7 @@ It appears that the project you're trying to run uses Vite as its build tool and
    Move into the project directory:
 
    ```sh
-   cd dictionary-app
+   cd Dictionary-n-Pronouncer
    ```
 
 3. **Install Dependencies:**
