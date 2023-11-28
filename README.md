@@ -3,7 +3,7 @@
 ![Screenshot](./screenshot.webp)
  
 Dictionary-n-Pronouncer Website <br/>
-  <a href="https://incredible-torrone-c19f4f.netlify.app/" target="_blank">dictionary-n-pronounver.app</a>
+  <a href="https://incredible-torrone-c19f4f.netlify.app/" target="_blank">dictionary-n-pronouncer.app</a>
 
 It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `Dictionary and Pronouncer` project on your localhost:
 
